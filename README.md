@@ -12,4 +12,4 @@ Power BI
 SELECT * from TABLE 1
 WHERE CONDITION = met
 ~~~
-![](IMG_4407)
+![](IMG_4407.jpeg)
