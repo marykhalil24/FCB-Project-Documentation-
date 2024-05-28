@@ -7,3 +7,8 @@ Google sheet
 Power BI
 ## Data Sources
 - MS for data cleaning [Download here](https://kagghle.com)
+
+~~~
+Select * from table 1
+where condition = met
+~~~
