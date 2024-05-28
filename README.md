@@ -12,3 +12,4 @@ Power BI
 Select * from table 1
 where condition = met
 ~~~
+![](IMG_4407)
