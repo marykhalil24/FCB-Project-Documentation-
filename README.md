@@ -9,7 +9,7 @@ Power BI
 - MS for data cleaning [Download here](https://kagghle.com)
 
 ~~~
-Select * from table 1
-where condition = met
+SELECT * from TABLE 1
+WHERE CONDITION = met
 ~~~
 ![](IMG_4407)
