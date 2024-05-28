@@ -13,3 +13,6 @@ SELECT * from TABLE 1
 WHERE CONDITION = met
 ~~~
 ![](IMG_4407.jpeg)
+|Heading 1| Heading 2| Heading 3|
+|---------| ---------| ---------|
+|Data 1| Data 2| Data 3|
